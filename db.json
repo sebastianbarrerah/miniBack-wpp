@@ -1,0 +1,30 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "Nombre": "wpp-soporte",
+            "Celular": "3116404916",
+            "Contraseña": "sebas123",
+            "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png",
+            "Estado": false,
+            "Informción": "Soporte interno de la aplicacion",
+            "Fecha_hora": null
+        }
+    ],
+    "mensajes": [
+        {
+            "id": 1,
+            "idUser1": 1,
+            "idUser2": 2,
+            "conversacion": [
+                {
+                    "sendBy": "1",
+                    "date": "20 junio",
+                    "hour": "3:00",
+                    "message": "Hola, como estas? Puedes escribirme y yo te doy la guia sobre el programa",
+                    "flag": "null"
+                }
+            ]
+        }
+    ]
+}
